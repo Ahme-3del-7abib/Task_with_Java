@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="rationale_sms">This app needs access to your gallery so you can save image.</string>
+</resources>
